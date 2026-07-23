@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leandro Sepulveda 👋</h1>
+<h1 align="center">Leandro Sepúlveda</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
