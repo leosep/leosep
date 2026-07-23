@@ -34,8 +34,6 @@
 
 ## A few things I've built
 
-**[Hospital System Suite](https://github.com/leosep/HospitalSystemAPI)** — a hospital management system split into three coordinated pieces: a C# API, a [React web module](https://github.com/leosep/hospital-react-app), and a [Flutter mobile module](https://github.com/leosep/hospital-flutter-app). Built to show how the same domain looks across three layers of a stack.
-
 **[RuneWave](https://github.com/leosep/RuneWave)** — a music streaming web app on ASP.NET Core. Media handling, auth, a backend that behaves like a real product, not a tutorial.
 
 **[LambdaNodeReactApp](https://github.com/leosep/LambdaNodeReactApp)** — full CRUD app with a Node/Express backend on AWS Lambda and a React front-end. Serverless end to end.
